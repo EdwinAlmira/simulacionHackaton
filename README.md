@@ -1,1 +1,1 @@
-# simulacionHackaton
+# Proyecto para prepararse para hackathon
