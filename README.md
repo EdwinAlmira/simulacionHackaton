@@ -2,4 +2,4 @@
 
 # Integrantes
 
-Edwin Almira, Milton Mejía, Gerson Salazar
+Edwin Almira, Milton Mejía, Gerson Salazar  y Alejandra Lopez
